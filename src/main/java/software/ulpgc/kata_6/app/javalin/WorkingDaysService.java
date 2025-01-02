@@ -1,10 +1,10 @@
-package software.ulpgc.app.javalin;
+package software.ulpgc.kata_6.app.javalin;
 
 import io.javalin.Javalin;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import software.ulpgc.architecture.control.CommandFactory;
-import software.ulpgc.architecture.control.Service;
+import software.ulpgc.kata_6.architecture.control.CommandFactory;
+import software.ulpgc.kata_6.architecture.control.Service;
 
 public class WorkingDaysService implements Service {
     private final int port;

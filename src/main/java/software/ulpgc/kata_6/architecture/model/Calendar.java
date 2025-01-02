@@ -1,4 +1,4 @@
-package software.ulpgc.architecture.model;
+package software.ulpgc.kata_6.architecture.model;
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;

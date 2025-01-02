@@ -1,8 +1,8 @@
-package software.ulpgc.app.javalin.adapters;
+package software.ulpgc.kata_6.app.javalin.adapters;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import software.ulpgc.architecture.control.commands.WorkingDateCommand;
+import software.ulpgc.kata_6.architecture.control.commands.WorkingDateCommand;
 
 import java.io.IOException;
 import java.time.LocalDate;

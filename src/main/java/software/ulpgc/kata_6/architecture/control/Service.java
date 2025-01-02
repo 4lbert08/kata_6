@@ -1,4 +1,4 @@
-package software.ulpgc.architecture.control;
+package software.ulpgc.kata_6.architecture.control;
 
 public interface Service {
     void start();

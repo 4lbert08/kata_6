@@ -1,7 +1,7 @@
-package software.ulpgc.architecture.control.commands;
+package software.ulpgc.kata_6.architecture.control.commands;
 
-import software.ulpgc.architecture.control.Command;
-import software.ulpgc.architecture.model.Calendar;
+import software.ulpgc.kata_6.architecture.control.Command;
+import software.ulpgc.kata_6.architecture.model.Calendar;
 
 import java.time.LocalDate;
 import java.util.Iterator;

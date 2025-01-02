@@ -1,10 +1,10 @@
-package software.ulpgc.app.javalin;
+package software.ulpgc.kata_6.app.javalin;
 
-import software.ulpgc.app.javalin.adapters.WorkingDateAdapter;
-import software.ulpgc.app.javalin.adapters.WorkingDaysAdapter;
-import software.ulpgc.architecture.control.CommandFactory;
-import software.ulpgc.architecture.control.commands.WorkingDateCommand;
-import software.ulpgc.architecture.control.commands.WorkingDaysCommand;
+import software.ulpgc.kata_6.app.javalin.adapters.WorkingDateAdapter;
+import software.ulpgc.kata_6.app.javalin.adapters.WorkingDaysAdapter;
+import software.ulpgc.kata_6.architecture.control.CommandFactory;
+import software.ulpgc.kata_6.architecture.control.commands.WorkingDateCommand;
+import software.ulpgc.kata_6.architecture.control.commands.WorkingDaysCommand;
 
 public class Main {
     public static void main(String[] args) {
